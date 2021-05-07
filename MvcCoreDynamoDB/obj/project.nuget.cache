@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "opvaxdnzrI/mXF24Uwvtgnb9Os/RXxItDATQMobaTSkQvw8aSUT5YKrau56WUTIp8F1pjMjsYdlLvfcp/tSE5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlumnoMCSD\\Desktop\\AWS\\MvcCoreDynamoDB\\MvcCoreDynamoDB\\MvcCoreDynamoDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\awssdk.core\\3.7.0.18\\awssdk.core.3.7.0.18.nupkg.sha512",
+    "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.18\\awssdk.dynamodbv2.3.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
